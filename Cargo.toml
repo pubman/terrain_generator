@@ -1,0 +1,12 @@
+[package]
+name = "terrain_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+noise = "0.8"
+image = "0.24"
+palette = "0.6"
+rand = "0.8"
+eframe = "0.22"
+egui = "0.22"
